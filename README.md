@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikosPapakonstantinou&show_icons=true&theme=synthwave&count_private=true))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikosPapakonstantinou&show_icons=true&theme=synthwave&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosPapakonstantinou)](https://github.com/NikosPapakonstantinou/)
 
 <!--
