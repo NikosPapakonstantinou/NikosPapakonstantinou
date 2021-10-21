@@ -1,8 +1,8 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikosPapakonstantinou&show_icons=true&theme=radical&count_private=true))
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosPapakonstantinou&count_private=true))](https://github.com/NikosPapakonstantinou/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikosPapakonstantinou&show_icons=true&theme=synthwave&count_private=true))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosPapakonstantinou))](https://github.com/NikosPapakonstantinou/github-readme-stats)
 
-### Hi there 👋
 <!--
+### Hi there 👋
 **NikosPapakonstantinou/NikosPapakonstantinou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
