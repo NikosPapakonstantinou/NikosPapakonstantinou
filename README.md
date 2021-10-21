@@ -1,6 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikosPapakonstantinou&show_icons=true&theme=synthwave&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosPapakonstantinou)](https://github.com/NikosPapakonstantinou/)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NikosPapakonstantinou)](https://github.com/NikosPapakonstantinou/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosPapakonstantinou&theme=synthwave&count_private=true)](https://github.com/NikosPapakonstantinou/)
 
 <!--
 ### Hi there 👋
