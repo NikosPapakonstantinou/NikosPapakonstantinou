@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikosPapakonstantinou&show_icons=true&theme=radical&count_private=true))
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosPapakonstantinou)](https://github.com/NikosPapakonstantinou/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikosPapakonstantinou&count_private=true))](https://github.com/NikosPapakonstantinou/github-readme-stats)
 
 ### Hi there 👋
 <!--
